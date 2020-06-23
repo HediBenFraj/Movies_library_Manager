@@ -15,4 +15,10 @@ available api routes : ----/api/users/ to execute CRUD operations for the users.
                        ----/api/genres/ to execute CRUD operations for the genres.
                        ----/api/movies/ to execute CRUD operations for the movies.
                        ----/api/auths/ to login and get your jwt auth token.
+                       
+you can simply open up your browser and visit the urls to get what's inside the data base easily for example : 
+    http://localhost:3000/api/movies to get the movies list. 
+    http://localhost:3000/api/users to get the users list.
+    http://localhost:3000/api/genres to get the genres list.
+                
                     
